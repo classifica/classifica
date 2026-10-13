@@ -1,16 +1,18 @@
-## Hi there 👋
+# CLASSIFICA Game Studio
 
-<!--
-**classifica/classifica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official repository for CLASSIFICA. We are an independent game studio focused on creating unique gaming experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On:
+
+### Classifica PC Edition
+We are actively developing our main title for PC. Stay tuned for future announcements, devlogs, and preview builds.
+
+* Platform: PC (Windows)
+* Status: In Active Development
+* Release Date: To Be Announced
+
+---
+
+Thank you for supporting CLASSIFICA Game Studio.
